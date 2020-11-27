@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6b99cde95e2b6b14368e5e784c4ca9c1",
+    "revision": "b9b40c85749ed2115f5922bada6bc789",
     "url": "/Sus_CoastralDune2/index.html"
   },
   {
-    "revision": "f549b7f00f85ddcc21eb",
-    "url": "/Sus_CoastralDune2/static/css/main.56e9e17b.chunk.css"
+    "revision": "2ba0f6f6c07c7b3c1328",
+    "url": "/Sus_CoastralDune2/static/css/main.d7c53981.chunk.css"
   },
   {
     "revision": "ac2f682dc1e63d7b3867",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Sus_CoastralDune2/static/js/2.9c80d66a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f549b7f00f85ddcc21eb",
+    "revision": "2ba0f6f6c07c7b3c1328",
     "url": "/Sus_CoastralDune2/static/js/main.f907d9df.chunk.js"
   },
   {

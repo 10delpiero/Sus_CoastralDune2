@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Sus_CoastralDune2/static/css/main.56e9e17b.chunk.css",
+    "main.css": "/Sus_CoastralDune2/static/css/main.d7c53981.chunk.css",
     "main.js": "/Sus_CoastralDune2/static/js/main.f907d9df.chunk.js",
     "main.js.map": "/Sus_CoastralDune2/static/js/main.f907d9df.chunk.js.map",
     "runtime-main.js": "/Sus_CoastralDune2/static/js/runtime-main.1cab0c4a.js",
@@ -8,9 +8,9 @@
     "static/js/2.9c80d66a.chunk.js": "/Sus_CoastralDune2/static/js/2.9c80d66a.chunk.js",
     "static/js/2.9c80d66a.chunk.js.map": "/Sus_CoastralDune2/static/js/2.9c80d66a.chunk.js.map",
     "index.html": "/Sus_CoastralDune2/index.html",
-    "precache-manifest.1154d2bfd8cce550295ba1ca5f968352.js": "/Sus_CoastralDune2/precache-manifest.1154d2bfd8cce550295ba1ca5f968352.js",
+    "precache-manifest.4453491a460da58243bf5ec12462f7c6.js": "/Sus_CoastralDune2/precache-manifest.4453491a460da58243bf5ec12462f7c6.js",
     "service-worker.js": "/Sus_CoastralDune2/service-worker.js",
-    "static/css/main.56e9e17b.chunk.css.map": "/Sus_CoastralDune2/static/css/main.56e9e17b.chunk.css.map",
+    "static/css/main.d7c53981.chunk.css.map": "/Sus_CoastralDune2/static/css/main.d7c53981.chunk.css.map",
     "static/js/2.9c80d66a.chunk.js.LICENSE.txt": "/Sus_CoastralDune2/static/js/2.9c80d66a.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/Sus_CoastralDune2/static/media/1.9b9f0c28.jpg",
     "static/media/10.jpg": "/Sus_CoastralDune2/static/media/10.d8dda206.jpg",
@@ -36,7 +36,7 @@
   "entrypoints": [
     "static/js/runtime-main.1cab0c4a.js",
     "static/js/2.9c80d66a.chunk.js",
-    "static/css/main.56e9e17b.chunk.css",
+    "static/css/main.d7c53981.chunk.css",
     "static/js/main.f907d9df.chunk.js"
   ]
 }

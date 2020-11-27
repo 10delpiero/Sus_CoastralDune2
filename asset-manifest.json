@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Sus_CoastralDune2/static/css/main.781db266.chunk.css",
+    "main.js": "/Sus_CoastralDune2/static/js/main.f907d9df.chunk.js",
+    "main.js.map": "/Sus_CoastralDune2/static/js/main.f907d9df.chunk.js.map",
+    "runtime-main.js": "/Sus_CoastralDune2/static/js/runtime-main.1cab0c4a.js",
+    "runtime-main.js.map": "/Sus_CoastralDune2/static/js/runtime-main.1cab0c4a.js.map",
+    "static/js/2.9c80d66a.chunk.js": "/Sus_CoastralDune2/static/js/2.9c80d66a.chunk.js",
+    "static/js/2.9c80d66a.chunk.js.map": "/Sus_CoastralDune2/static/js/2.9c80d66a.chunk.js.map",
+    "index.html": "/Sus_CoastralDune2/index.html",
+    "precache-manifest.75f8c732d2dcdcf777c296d602c4a200.js": "/Sus_CoastralDune2/precache-manifest.75f8c732d2dcdcf777c296d602c4a200.js",
+    "service-worker.js": "/Sus_CoastralDune2/service-worker.js",
+    "static/css/main.781db266.chunk.css.map": "/Sus_CoastralDune2/static/css/main.781db266.chunk.css.map",
+    "static/js/2.9c80d66a.chunk.js.LICENSE.txt": "/Sus_CoastralDune2/static/js/2.9c80d66a.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/Sus_CoastralDune2/static/media/1.9b9f0c28.jpg",
+    "static/media/10.jpg": "/Sus_CoastralDune2/static/media/10.d8dda206.jpg",
+    "static/media/2.jpg": "/Sus_CoastralDune2/static/media/2.052adb27.jpg",
+    "static/media/3.jpg": "/Sus_CoastralDune2/static/media/3.cb20dcd1.jpg",
+    "static/media/4.jpg": "/Sus_CoastralDune2/static/media/4.66adcd01.jpg",
+    "static/media/5.jpg": "/Sus_CoastralDune2/static/media/5.88bc2f3f.jpg",
+    "static/media/6.jpg": "/Sus_CoastralDune2/static/media/6.dab8264f.jpg",
+    "static/media/7.jpg": "/Sus_CoastralDune2/static/media/7.3c5b0ab5.jpg",
+    "static/media/8.jpg": "/Sus_CoastralDune2/static/media/8.2670814e.jpg",
+    "static/media/9.jpg": "/Sus_CoastralDune2/static/media/9.d9ec83a3.jpg",
+    "static/media/styles.css": "/Sus_CoastralDune2/static/media/KCCMurukmuruk.7aef94a2.ttf",
+    "static/media/icon1.jpg": "/Sus_CoastralDune2/static/media/icon1.6a1f141e.jpg",
+    "static/media/icon2.jpg": "/Sus_CoastralDune2/static/media/icon2.28240ee4.jpg",
+    "static/media/icon3.jpg": "/Sus_CoastralDune2/static/media/icon3.e523fb54.jpg",
+    "static/media/icon4.jpg": "/Sus_CoastralDune2/static/media/icon4.0a7aa614.jpg",
+    "static/media/icon5.jpg": "/Sus_CoastralDune2/static/media/icon5.24797652.jpg",
+    "static/media/icon6.jpg": "/Sus_CoastralDune2/static/media/icon6.bc1e4aea.jpg",
+    "static/media/icon7.jpg": "/Sus_CoastralDune2/static/media/icon7.b39a16eb.jpg",
+    "static/media/icon8.jpg": "/Sus_CoastralDune2/static/media/icon8.73c61000.jpg",
+    "static/media/leaves.jpg": "/Sus_CoastralDune2/static/media/leaves.81296a82.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1cab0c4a.js",
+    "static/js/2.9c80d66a.chunk.js",
+    "static/css/main.781db266.chunk.css",
+    "static/js/main.f907d9df.chunk.js"
+  ]
+}

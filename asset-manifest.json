@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Sus_CoastralDune2/static/css/main.d7c53981.chunk.css",
-    "main.js": "/Sus_CoastralDune2/static/js/main.f907d9df.chunk.js",
-    "main.js.map": "/Sus_CoastralDune2/static/js/main.f907d9df.chunk.js.map",
+    "main.css": "/Sus_CoastralDune2/static/css/main.6d71aa3f.chunk.css",
+    "main.js": "/Sus_CoastralDune2/static/js/main.1e91f285.chunk.js",
+    "main.js.map": "/Sus_CoastralDune2/static/js/main.1e91f285.chunk.js.map",
     "runtime-main.js": "/Sus_CoastralDune2/static/js/runtime-main.1cab0c4a.js",
     "runtime-main.js.map": "/Sus_CoastralDune2/static/js/runtime-main.1cab0c4a.js.map",
-    "static/js/2.9c80d66a.chunk.js": "/Sus_CoastralDune2/static/js/2.9c80d66a.chunk.js",
-    "static/js/2.9c80d66a.chunk.js.map": "/Sus_CoastralDune2/static/js/2.9c80d66a.chunk.js.map",
+    "static/js/2.3964c2ec.chunk.js": "/Sus_CoastralDune2/static/js/2.3964c2ec.chunk.js",
+    "static/js/2.3964c2ec.chunk.js.map": "/Sus_CoastralDune2/static/js/2.3964c2ec.chunk.js.map",
     "index.html": "/Sus_CoastralDune2/index.html",
-    "precache-manifest.4453491a460da58243bf5ec12462f7c6.js": "/Sus_CoastralDune2/precache-manifest.4453491a460da58243bf5ec12462f7c6.js",
+    "precache-manifest.615a4d06adf9e6ddff78ede64cc2b176.js": "/Sus_CoastralDune2/precache-manifest.615a4d06adf9e6ddff78ede64cc2b176.js",
     "service-worker.js": "/Sus_CoastralDune2/service-worker.js",
-    "static/css/main.d7c53981.chunk.css.map": "/Sus_CoastralDune2/static/css/main.d7c53981.chunk.css.map",
-    "static/js/2.9c80d66a.chunk.js.LICENSE.txt": "/Sus_CoastralDune2/static/js/2.9c80d66a.chunk.js.LICENSE.txt",
+    "static/css/main.6d71aa3f.chunk.css.map": "/Sus_CoastralDune2/static/css/main.6d71aa3f.chunk.css.map",
+    "static/js/2.3964c2ec.chunk.js.LICENSE.txt": "/Sus_CoastralDune2/static/js/2.3964c2ec.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/Sus_CoastralDune2/static/media/1.9b9f0c28.jpg",
     "static/media/10.jpg": "/Sus_CoastralDune2/static/media/10.d8dda206.jpg",
     "static/media/2.jpg": "/Sus_CoastralDune2/static/media/2.052adb27.jpg",
@@ -35,8 +35,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.1cab0c4a.js",
-    "static/js/2.9c80d66a.chunk.js",
-    "static/css/main.d7c53981.chunk.css",
-    "static/js/main.f907d9df.chunk.js"
+    "static/js/2.3964c2ec.chunk.js",
+    "static/css/main.6d71aa3f.chunk.css",
+    "static/js/main.1e91f285.chunk.js"
   ]
 }

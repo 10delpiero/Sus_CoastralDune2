@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Sus_CoastralDune2/precache-manifest.680cc23a956e97bac09af48f6e4f3a24.js"
+  "/Sus_CoastralDune2/precache-manifest.05594fd9004e39e860cde818d4e18816.js"
 );
 
 self.addEventListener('message', (event) => {
